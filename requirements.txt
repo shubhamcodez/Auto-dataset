@@ -1,0 +1,5 @@
+pymupdf>=1.22.0
+PyPDF2>=3.0.0
+# Optional for the test harness
+reportlab>=3.6.12
+requests>=2.31.0
